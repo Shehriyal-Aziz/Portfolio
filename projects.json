@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Digital Clock",
+    "desc": "build a digital clock which shows current time date and day, using html, css and javascript.",
+    "image": "clock",
+    "category": "javascript",
+    "links": {
+      "view": "https://calculator-by-shehryar.netlify.app/",
+      "code": "https://github.com/shehryarahmed26/Calculator-js"
+    }
+  },
+   {
+    "name": "Shahee",
+    "desc": "An E-commerce Brand fully fuctional and responsive with proper check-out using html, css and javascript.",
+    "image": "shahee",
+    "category": "javascript",
+    "links": {
+      "view": "https://shahee.vercel.app/",
+      "code": "https://github.com/Shehriyal-Aziz/sherry-ecom-1"
+    }
+  }
+  ]

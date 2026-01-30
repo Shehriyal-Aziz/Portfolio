@@ -1,0 +1,63 @@
+[
+  {
+    "name": "HTML",
+    "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg"
+  },
+  {
+    "name": "CSS",
+    "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/css3.svg"
+  },
+  {
+    "name": "Bootstrap",
+    "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/bootstrap.svg"
+  },
+  {
+    "name": "Tailwind CSS",
+    "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tailwindcss.svg"
+  },
+  {
+    "name": "JavaScript",
+    "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg"
+  },
+  {
+    "name": "jQuery",
+    "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/jquery.svg"
+  },
+  {
+    "name": "PHP",
+    "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/php.svg"
+  },
+  {
+    "name": "Laravel",
+    "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/laravel.svg"
+  },
+  {
+    "name": "MySQL",
+    "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mysql.svg"
+  },
+  {
+    "name": "SQL",
+    "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/postgresql.svg"
+  },
+  {
+    "name": "Shopify",
+    "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/shopify.svg"
+  },
+  {
+    "name": "WordPress",
+    "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/wordpress.svg"
+  },
+  {
+    "name": "Git",
+    "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/git.svg"
+  },
+  {
+    "name": "GitHub",
+    "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg"
+  },
+  {
+    "name": "Vercel",
+    "icon": "https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/vercel.svg"
+  }
+]
+               
