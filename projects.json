@@ -5,8 +5,27 @@
     "image": "clock",
     "category": "javascript",
     "links": {
-      "view": "https://calculator-by-shehryar.netlify.app/",
-      "code": "https://github.com/shehryarahmed26/Calculator-js"
+      "view": "https://sadigitalclock.vercel.app/",
+      "code": "https://github.com/Shehriyal-Aziz/Digital-Clock"
+    }
+  },
+  {
+    "name": "Calculator",
+    "desc": "build a calculator which perform all the operational tasks, using html, css & javascript.",
+    "image": "calculator",
+    "category": "javascript",
+    "links": {
+      "view": "https://sacalculator.vercel.app/",
+      "code": "https://github.com/Shehriyal-Aziz/calculator"
+    }
+  },
+  {
+    "name": "Weather-App",
+    "image": "weatherapp",
+    "category": "android",
+    "links": {
+      "view": "https://saweather-app.vercel.app/",
+      "code": "https://github.com/Shehriyal-Aziz/Weather-App"
     }
   },
    {
@@ -17,6 +36,26 @@
     "links": {
       "view": "https://shahee.vercel.app/",
       "code": "https://github.com/Shehriyal-Aziz/sherry-ecom-1"
+    }
+  },
+   {
+    "name": "Dj-Marketing",
+    "desc": "Frontend implementation for a client e-commerce project, built with HTML, CSS, Bootstrap, and JavaScript.",
+    "image": "dj",
+    "category": "javascript",
+    "links": {
+      "view": "https://dj-marketing.vercel.app/",
+      "code": "https://github.com/Shehriyal-Aziz/DJ-Ecommerce-Frontend"
+    }
+  },
+  {
+    "name": "Health Care Management System",
+    "desc": "Frontend implementation for a client e-commerce project, built with HTML, CSS, Bootstrap, and JavaScript.",
+    "image": "Care",
+    "category": "javascript",
+    "links": {
+      "view": "https://www.linkedin.com/posts/shehriyal-aziz_laravel-healthcaretech-webdevelopment-activity-7422567495456407552-MjMq/",
+      "code": "https://github.com/Shehriyal-Aziz/Health-Care-Management-System"
     }
   }
   ]
