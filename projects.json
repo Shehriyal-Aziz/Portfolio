@@ -21,8 +21,9 @@
   },
   {
     "name": "Weather-App",
+    "desc": "build a weather which perform all the operational tasks, using html, css & javascript.",
     "image": "weatherapp",
-    "category": "android",
+    "category": "javascript",
     "links": {
       "view": "https://saweather-app.vercel.app/",
       "code": "https://github.com/Shehriyal-Aziz/Weather-App"
