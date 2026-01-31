@@ -433,6 +433,9 @@ header .navbar ul li a:hover {
   font-size: 1.2rem;
   transition: 0.3s;
 }
+favicon{
+  border-radius: 50%;
+}
 .resumebtnn .btnn:hover {
   background: #1a047e;
 }
