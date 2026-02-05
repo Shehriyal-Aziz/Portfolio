@@ -361,6 +361,11 @@ header .navbar ul li a:hover {
   box-shadow: none;
 }
 .home .content h2 {
+  font-size: 4rem;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+.home .content h1 {
   font-size: 5rem;
   font-weight: 800;
   color: var(--text-primary);
