@@ -19,6 +19,7 @@
   --shadow-strong: 0 5px 10px rgba(48, 68, 247, 0.6);
 }
 
+
 .skill-icon {
   width: 48px;
   height: 48px;
@@ -297,6 +298,7 @@ header .navbar ul li a:hover {
   header .navbar.nav-toggle {
     right: 0;
   }
+ 
 }
 /* hamburger icon ends */
 
@@ -362,8 +364,9 @@ header .navbar ul li a:hover {
   box-shadow: none;
 }
 .home .content h2 {
-  font-size: 4rem;
+  font-size: 5rem;
   font-weight: 600;
+  height: 16rem;
   color: var(--text-primary);
 }
 .home .content h1 {
@@ -372,7 +375,7 @@ header .navbar ul li a:hover {
   color: var(--text-primary);
 }
 .home .content h2 span {
-  font-size: 5rem;
+  font-size: 4rem;
   font-weight: 800;
   color: var(--accent);
 }

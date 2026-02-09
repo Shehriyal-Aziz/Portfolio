@@ -71,7 +71,7 @@ $(document).ready(function () {
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["frontend development", "web designing", "web development","shopify Designer","wordpress developer", "full stack developer"],
+    strings: ["web developer","shopify Designer", "web designing","wordpress developer", "full stack developer"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
